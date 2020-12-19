@@ -1,5 +1,5 @@
 
-This is the Home Page for the community organization that maintain Viro, open source developer platform for rapidly building AR/VR applications.
+This is the Home Page for the community organization that maintain Viro, an open source developer platform for rapidly building AR/VR applications.
 
 ## Resources
 
