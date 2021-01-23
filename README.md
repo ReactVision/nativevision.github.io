@@ -8,3 +8,9 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [Viro](https://github.com/ViroCommunity/viro)
 - [Viro Core](https://github.com/ViroCommunity/virocore)
 - [Viro Media App](https://github.com/ViroCommunity/viro-media-app)
+
+## Maintainers
+
+- [Adelar da Silva Queiróz](https://adelarsq.github.io)
+- [Eduardo Dorantes](https://github.com/doranteseduardo)
+- [George](https://github.com/geo-vi)
