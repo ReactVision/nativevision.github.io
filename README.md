@@ -1,7 +1,9 @@
 
 This is the Home Page for the community organization that maintain Viro, an open source developer platform for rapidly building AR/VR applications.
 
-## Resources
+[Get started 🚀](https://github.com/ViroCommunity/starter-kit)
+
+## Resources 📦
 
 - [Chat](https://discord.com/invite/YfxDBGTxvG)
 - [Awesome Viro](https://github.com/ViroCommunity/awesome-viro)
@@ -9,7 +11,7 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [Viro Core](https://github.com/ViroCommunity/virocore)
 - [Viro Media App](https://github.com/ViroCommunity/viro-media-app)
 
-## Maintainers
+## Maintainers 🤗
 
 - [Adelar da Silva Queiróz](https://adelarsq.github.io)
 - [Eduardo Dorantes](https://github.com/doranteseduardo)
