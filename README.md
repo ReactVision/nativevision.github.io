@@ -17,4 +17,4 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [Eduardo Dorantes](https://github.com/doranteseduardo) 🇲🇽
 - [George Ivanov](https://github.com/geo-vi) 🇦🇹 
 - [Marian Šámal](https://github.com/mariansam) 🇨🇿
-- [Paul McCabe](https://github.com/bilewinters) 🌏
+- [Paul McCabe](https://github.com/bilewinters) 🇬🇧
