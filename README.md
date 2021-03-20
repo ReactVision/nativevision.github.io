@@ -11,10 +11,10 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [Viro Core](https://github.com/ViroCommunity/virocore)
 - [Viro Media App](https://github.com/ViroCommunity/viro-media-app)
 
-## Maintainers 🤗
+## Maintainers Around The World 🤗
 
-- [Adelar da Silva Queiróz](https://adelarsq.github.io)
-- [Eduardo Dorantes](https://github.com/doranteseduardo)
-- [George Ivanov](https://github.com/geo-vi)
-- [Marian Šámal](https://github.com/mariansam)
-- [Paul McCabe](https://github.com/bilewinters)
+- [Adelar da Silva Queiróz](https://adelarsq.github.io) 🇧🇷
+- [Eduardo Dorantes](https://github.com/doranteseduardo) 🇲🇽
+- [George Ivanov](https://github.com/geo-vi) 🇦🇹 
+- [Marian Šámal](https://github.com/mariansam) 🇨🇿
+- [Paul McCabe](https://github.com/bilewinters) 🌏
