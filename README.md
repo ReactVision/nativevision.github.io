@@ -5,7 +5,7 @@ This is the Home Page for the community organization that maintain Viro, an open
 
 ## Resources 📦
 
-- [Chat](https://discord.com/invite/YfxDBGTxvG)
+- [Chat](https://discord.gg/H3ksm5NhzT)
 - [Awesome Viro](https://github.com/ViroCommunity/awesome-viro)
 - [Viro](https://github.com/ViroCommunity/viro)
 - [Viro Core](https://github.com/ViroCommunity/virocore)
