@@ -18,3 +18,4 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [George Ivanov](https://github.com/geo-vi) 🇦🇹 
 - [Marian Šámal](https://github.com/mariansam) 🇨🇿
 - [Paul McCabe](https://github.com/bilewinters) 🇬🇧
+- [Robert Colley](https://github.com/NS-BOBBY-C) 🇺🇸
