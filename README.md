@@ -24,9 +24,7 @@ This is the Home Page for the community organization that maintain Viro, an open
 
 ## Why Viro?
 
-A great testimonial from [Michael McClenaghan]() ([source](https://discord.com/channels/774471080713781259/774471080713781263/789284272707338250)):
-
-Add Michael McClenaghan testimonial about Viro vs Unity:
+A great testimonial from [Michael McClenaghan]() ([source](https://discord.com/channels/774471080713781259/774471080713781263/789284272707338250)) about Viro vs Unity:
 
 There are quite a few reasons we're trying to get away from Unity as a Library:
 1. Iteration time. Getting your UaaL-enabled RN app built changes from taking a few minutes to upwards of 20-30 minutes or more when you factor in exporting the Xcode Project/Android Project from Unity and then building your wrapping framework. Any time you want to change something in the Unity AR, you have to re-export the Unity project, ensure that your integration into your RN xcworkspace wasn't broken in the process, and then build your RN app (which usually includes re-building all of the IL2CPP code, which is what adds ages to the final build). This makes getting anything done painfully slow.
