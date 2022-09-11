@@ -1,6 +1,17 @@
 
 This is the Home Page for the community organization that maintain Viro, an open source developer platform for rapidly building AR/VR applications.
 
+<table>
+  <tr>
+    <td align="center">
+      <img height="200" src="https://raw.githubusercontent.com/viromedia/viro/master/code-samples/js/ARCarDemo/viro_car_marker_demo.gif">
+    </td>
+    <td align="center">
+      <img height="200" src="https://raw.githubusercontent.com/viromedia/viro/master/code-samples/js/ARPosterDemo/viro_black_panther_marker_demo.gif">
+    </td>
+  </tr>
+</table>
+
 [Get started 🚀](https://github.com/ViroCommunity/starter-kit)
 
 ## Resources 📦
