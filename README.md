@@ -20,7 +20,7 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [ViroReact Documentation](https://viro-community.readme.io/docs)
 - [ViroCore Documentation](https://virocommunitycore.readme.io)
 
-## GitHub Repos
+## GitHub Repos 🌱
 
 - [Awesome Viro](https://github.com/ViroCommunity/awesome-viro)
 - [Viro](https://github.com/ViroCommunity/viro)
@@ -36,8 +36,7 @@ This is the Home Page for the community organization that maintain Viro, an open
 - [Paul McCabe](https://github.com/bilewinters) 🇬🇧
 - [Robert Colley](https://github.com/robertjcolley) 🇺🇸
 
-
-## Why Viro?
+## Why Viro? 💡
 
 A great testimonial from Michael McClenaghan about Viro vs Unity ([source](https://discord.com/channels/774471080713781259/774471080713781263/789284272707338250)):
 
